@@ -24,7 +24,7 @@
   <a href="https://x.com/codewyuu" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="32" height="20" alt="twitter logo"  />
   </a>
-  <a href="https://www.youtube.com/@yuudesu" target="blank">
+  <a href="https://www.youtube.com/@yuudesu" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="32" height="20" alt="youtube logo"  />
   </a>
 </div>
