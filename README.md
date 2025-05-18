@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<p align="left">₍^. .^₎⟆<br>Hey, I am a sophomore particularly a cse undergrad @aktu, planning to major in computer science and engineering ofc and currently residing in Delhi, India.<br><br>currently working as a Frontend dev and co-leading Pallets.</p>
+<p align="left">₍^. .^₎⟆<br>Hey, I am a sophomore particularly a cse undergrad @aktu, planning to major in computer science and engineering and currently residing in Delhi, India.<br><br>currently working as a Frontend dev and co-leading Pallets.</p>
 
 ###
 
