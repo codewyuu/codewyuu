@@ -17,6 +17,7 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/knowasyuvraj/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
+    <br>
   </a>
   <a href="https://discord.com/channels/655246327646650379" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="20" alt="discord logo"  />
