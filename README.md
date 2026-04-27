@@ -37,7 +37,7 @@
         <img src="https://i.pinimg.com/originals/13/ba/ce/13baceceabaf5b26bb11d42b2561e0c4.gif" width="100%" />
         <br>
         <h1>hi, i'm yuvraj.</h1>
-        <p><b>21 • research & opensource | cse undergrad @aktu | Builder</b></p>
+        <p><b>21 • research & opensource | cse undergrad @aktu | builder</b></p>
         <p align="center">
           <img src="https://img.shields.io/badge/Location-Delhi,%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" />
         </p>
