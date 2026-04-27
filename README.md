@@ -37,7 +37,7 @@
         <img src="https://i.pinimg.com/originals/13/ba/ce/13baceceabaf5b26bb11d42b2561e0c4.gif" width="100%" />
         <br>
         <h1>hi, i'm yuvraj.</h1>
-        <p><b>CSE Undergrad @ AKTU | Frontend Developer | Co-leading Pallets</b></p>
+        <p><b>21 • research & opensource | cse undergrad @aktu | Builder</b></p>
         <p align="center">
           <img src="https://img.shields.io/badge/Location-Delhi,%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" />
         </p>
@@ -48,7 +48,7 @@
 
 ### ₍^. .^₎⟆ About Me
 
-I am a Computer Science and Engineering student currently residing in Delhi, India. I focus on building intuitive frontend experiences and leading creative engineering projects at Pallets.
+Builder, specializing in full-stack architecture and AI integration. Driven by a love for clean code, minimalist design, and building the next generation of intelligent web applications.
 
 ### 🌐 Connect with Me
 
