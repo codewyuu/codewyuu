@@ -10,14 +10,9 @@
           <img src="https://img.shields.io/badge/Location-Delhi,%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" />
         </p>
         <br>
-        <table border="0" cellspacing="0" cellpadding="0" align="center">
-          <tr>
-            <td><a href="https://www.linkedin.com/in/knowasyuvraj/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="25" alt="linkedin" /></a></td>
-            <td><a href="https://discord.com/channels/655246327646650379" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="25" alt="discord" /></a></td>
-            <td><a href="https://x.com/codewyuu" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="35" height="25" alt="twitter" /></a></td>
-            <td><a href="https://www.youtube.com/@yuudesu" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="35" height="25" alt="youtube" /></a></td>
-          </tr>
-        </table>
+        <p align="center">
+          <a href="https://www.linkedin.com/in/knowasyuvraj/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="25" alt="linkedin" /></a>&nbsp;&nbsp;<a href="https://discord.com/channels/655246327646650379" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="25" alt="discord" /></a>&nbsp;&nbsp;<a href="https://x.com/codewyuu" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="35" height="25" alt="twitter" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/@yuudesu" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="35" height="25" alt="youtube" /></a>
+        </p>
       </td>
     </tr>
   </table>
