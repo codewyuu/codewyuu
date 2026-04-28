@@ -46,12 +46,6 @@
   </table>
 </div>
 
-### ₍^. .^₎⟆ About Me
-
-Builder, specializing in full-stack architecture and AI integration. Driven by a love for clean code, minimalist design, and building the next generation of intelligent web applications.
-
-### 🌐 Connect with Me
-
 <div align="left">
   <a href="https://www.linkedin.com/in/knowasyuvraj/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="25" alt="linkedin" />
